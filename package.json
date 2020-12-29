@@ -1,0 +1,21 @@
+{
+  "name": "tailwinddarktransitionissue",
+  "version": "1.0.0",
+  "description": "Reproducing Tailwind transition issue with dark mode.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apostolique/TailwindDarkTransitionIssue.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Apostolique/TailwindDarkTransitionIssue/issues"
+  },
+  "homepage": "https://github.com/Apostolique/TailwindDarkTransitionIssue#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.1.0",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.0.2"
+  }
+}
